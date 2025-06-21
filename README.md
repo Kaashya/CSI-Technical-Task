@@ -15,4 +15,4 @@ TechNova 2025 is a student-driven tech fest promoting innovation, implementation
 | Google Fonts     | Custom typography                |
 | GitHub Pages     | Free hosting                     |
 3) SETUP/INSTALLATION INSTRUCTIONS : 
-[Click here to visit the live website] - 
+[Click here to visit the live website] - https://kaashya.github.io/CSI-Technical-Task/
